@@ -154,6 +154,6 @@ MIT – see `LICENSE` file.
 
 ### Author
 
-**Your Name** – *Bucharest, Romania.*
+**Noris Vladislav** – *Bucharest, Romania.*
 
 > “Robots are just how we wave back at the future.”
