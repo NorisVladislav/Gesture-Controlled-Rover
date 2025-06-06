@@ -7,7 +7,7 @@ A wearable glove equipped with an **ESP32**, **MPU‑6050** 6‑axis IMU, and an
 
 ## 1. Demo
 
-![Demo of glove and rover in action](images/demo.jpg)
+![Demo of glove and rover in action](PHOTOS/1.jpeg)
 
 
 | Gesture                 | Rover reaction    |
