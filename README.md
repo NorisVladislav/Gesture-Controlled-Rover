@@ -115,7 +115,6 @@ Install these from the Arduino Library Manager / PlatformIO:
 
 ![User wearing glove and operating rover](PHOTOS/3.jpg)
 ![User wearing glove and operating rover](PHOTOS/5.jpg)
-![User wearing glove and operating rover](PHOTOS/6.mp4)
 
 
 * Wear the glove, palm facing down.
