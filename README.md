@@ -7,7 +7,7 @@ A wearable glove equipped with an **ESP32**, **MPU‑6050** 6‑axis IMU, and an
 
 ## 1. Demo
 
-![Demo of glove and rover in action](PHOTOS/1.jpeg)
+![Demo of glove and rover in action](PHOTOS/3.jpeg)
 
 
 | Gesture                 | Rover reaction    |
@@ -21,21 +21,19 @@ A wearable glove equipped with an **ESP32**, **MPU‑6050** 6‑axis IMU, and an
 
 ## 2. Hardware
 
-![Overview of hardware components](images/hardware_overview.jpg)
+![Overview of hardware components](PHOTOS/3.jpeg)
 
 
 The rover is really two separate devices that cooperate over the air: a **wearable glove** that senses motion and a **Boe‑Bot chassis** that turns those motions into wheels on asphalt.  Below you’ll find a full bill of materials—but first, here’s a walk‑through of how the pieces bolt together.
 
 ### 2.1 Wearable Glove
 
-![Wearable glove close-up](images/wearable_glove.jpg)
+![Wearable glove close-up](PHOTOS/5.jpeg)
 
 
 [... trimmed for brevity in explanation, kept full in actual file ...]
 
 ## 3. System Architecture
-
-![System architecture diagram](images/architecture.jpg)
 
 
 ```
@@ -53,9 +51,6 @@ The rover is really two separate devices that cooperate over the air: a **wearab
 ---
 
 ## 4. Wiring Details
-
-![Wiring setup photo](images/wiring.jpg)
-
 
 Instead of a dense pinout dump, the notes below focus on *why* each connection matters.
 
