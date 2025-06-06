@@ -101,7 +101,7 @@ Install these from the Arduino Library Manager / PlatformIO:
 
 ## 6. Calibration
 
-![OLED screen showing calibration](images/calibration.jpg)
+![OLED screen showing calibration](PHOTOS/7.png)
 
 
 1. Power on the glove on a flat surface.
@@ -112,7 +112,7 @@ Install these from the Arduino Library Manager / PlatformIO:
 
 ## 7. Usage
 
-![User wearing glove and operating rover](images/usage.jpg)
+![User wearing glove and operating rover](/usage.jpg)
 
 
 * Wear the glove, palm facing down.
